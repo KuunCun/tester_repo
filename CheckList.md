@@ -5,12 +5,12 @@ This is a CheckList of things to do on Web Development exercises.
 - [ ] Use the Atributes
 - [x] Use the Hyperlinks
 - [ ] Use the Headings
-- [ ] Use the Lists
+- [x] Use the Lists
 - [ ] Use the Inline Elements
 - [ ] Use the Block Elements
 - [ ] Use the Divs
 - [ ] Use the Id & Class Atributes
-- [ ] Use the Images
+- [x] Use the Images
 - [ ] Use the Tables
 - [ ] Use the Forms
 - [ ] Use the Semantic Elements
